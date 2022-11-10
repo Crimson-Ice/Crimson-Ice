@@ -13,15 +13,11 @@
 
 <h3 align="center"> Github stat : </h3>
 
-<hr>
-
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
 
 <hr>
 
 <h3 align="center"> Most usage langage : </h3>
-
-<hr>
 
 <p align ="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
 
