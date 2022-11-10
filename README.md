@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Antonin Drujon</h1>
 <h3 align="center">A passionate developer for application and game developpement</h3>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crimson-ice&" alt="crimson-ice" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
