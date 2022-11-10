@@ -1,9 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crimson-Ice&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Crimson-Ice&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  media="(prefers-color-scheme: shades-of-purple)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Crimson-Ice&show_icons=true"
