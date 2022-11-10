@@ -13,7 +13,7 @@
 
 <h3 align="center"> Github stat : </h3>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en$count_private=true" alt="crimson-ice" /></p>
 
 <hr>
 
