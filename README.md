@@ -9,14 +9,23 @@
 
 - 📫 How to reach me **Drujon.antonin@gmail.com**
 
-<h3 align="center"> Github stat : &nbsp;</h3>
+<hr>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
+<h3 align="center"> Github stat : </h3>
 
-<h3 align="center"> Most usage langage : &nbsp;</h3>
+<hr>
 
-<p align ="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
 
+<hr>
+
+<h3 align="center"> Most usage langage : </h3>
+
+<hr>
+
+<p align ="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
