@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Antonin Drujon</h1>
 <h3 align="center">A passionate developer for application and game developpement</h3>
 
+<h3 align="center">Talking about Personal Stuffs:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
+- 🔭 I’m currently working on **SudokuApplication**
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
+- 🌱 I’m currently learning **Flutter and dart**
+
+- 📫 How to reach me **Drujon.antonin@gmail.com**
+
+<h3 align="center"> Github stat : &nbsp;</h3>
+
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-ice&show_icons=true&locale=en" alt="crimson-ice" /></p>
+
+<h3 align="center"> Most usage langage : &nbsp;</h3>
+
+<p align ="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-ice&show_icons=true&locale=en&layout=compact&count_private=true" alt="crimson-ice" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
