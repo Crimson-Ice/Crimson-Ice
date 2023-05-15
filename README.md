@@ -3,9 +3,9 @@
 
 <h3 align="center">Talking about Personal Stuffs:</h3>
 
-- 🔭 I’m currently working on **SudokuApplication**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Flutter and dart**
+- 🌱 I’m currently learning **Ts and python**
 
 - 📫 How to reach me **Drujon.antonin@gmail.com**
 
